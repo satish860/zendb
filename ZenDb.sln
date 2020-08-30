@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZenDb.Core", "src\ZenDb.Core\ZenDb.Core.csproj", "{6832F098-FF5D-44CA-8121-616750498B6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZenDb.Core.Tests", "test\ZenDb.Core.Tests\ZenDb.Core.Tests.csproj", "{B995F3B3-0903-4FB4-BDAD-1FD9D38218C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6832F098-FF5D-44CA-8121-616750498B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6832F098-FF5D-44CA-8121-616750498B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6832F098-FF5D-44CA-8121-616750498B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6832F098-FF5D-44CA-8121-616750498B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B995F3B3-0903-4FB4-BDAD-1FD9D38218C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B995F3B3-0903-4FB4-BDAD-1FD9D38218C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B995F3B3-0903-4FB4-BDAD-1FD9D38218C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B995F3B3-0903-4FB4-BDAD-1FD9D38218C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4624A2CD-D8BE-47BA-AA81-8D1DC3591DB9}
+	EndGlobalSection
+EndGlobal
